@@ -24,8 +24,8 @@ Puedes **encontrarme** en Codewars como [/pablocorbcon-lex.europa.eu(https://www
 
 #### Índice de Kyu
 Índice de carpetas separadas por nivel kyu
-+ [8kyu] (https://github.com/PabloCorbCon/codewars-examples/tree/master/8kyu)
-+ [7kyu] (https://github.com/PabloCorbCon/codewars-examples/tree/master/7kyu)
-+ [6kyu] (https://github.com/PabloCorbCon/codewars-examples/tree/master/6kyu)
++ [8kyu](https://github.com/PabloCorbCon/codewars-examples/tree/master/8kyu)
++ [7kyu](https://github.com/PabloCorbCon/codewars-examples/tree/master/7kyu)
++ [6kyu](https://github.com/PabloCorbCon/codewars-examples/tree/master/6kyu)
 
 ###### All solutions created by [Pablo Corbalán](https://github.com/PabloCorbCon)
