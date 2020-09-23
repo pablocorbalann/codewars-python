@@ -15,7 +15,7 @@ Index to folders separated by kyu level
 ---
 
 # Ejemplos de Codewars
-[Codewars] (https://www.codewars.com) es una plataforma de aprendizaje de código, que puede utilizar para practicar sus habilidades de programación lógica (algoritmos, eficiencia ...). Y lo mejor de todo, es gratis.
+[Codewars](https://www.codewars.com) es una plataforma de aprendizaje de código, que puede utilizar para practicar sus habilidades de programación lógica (algoritmos, eficiencia ...). Y lo mejor de todo, es gratis.
 En Codewars, los desafíos de programación se llaman "Katas", y **en este repositorio almacenaré todos los Katas que programe**.
 Los **desafíos** se **dividen usando  el nivel de kyu**, el nivel de kyu es una forma que usa Codewars para clasificar los desafíos en 8 niveles, desde el nivel 8 (donde los desafíos son bastante fáciles) hasta el nivel 1 (donde los desafíos se vuelven bastante complicados)
 Los usuarios también se dividen utilizando el mismo sistema.
