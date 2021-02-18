@@ -19,3 +19,4 @@ Index to folders separated by kyu level
 - [7kyu](7kyu/)
 - [6kyu](6kyu/)
 - [5kyu](5kyu/)
+- [4kyu](4kyu/)
